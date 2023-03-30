@@ -1,0 +1,43 @@
+/* ***** Fonts ***** */
+
+@import url('https://fonts.loli.net/css?family=Montserrat:300,400,500,600,700');
+
+/* ***** Import CSS ***** */
+
+@import 'css/bootstrap/bootstrap.min.css';
+@import 'css/others/animate.css';
+@import 'css/others/magnific-popup.css';
+@import 'css/others/owl.carousel.min.css';
+@import 'css/others/font-awesome.min.css';
+@import 'css/others/pe-icon-7-stroke.css';
+
+
+html {
+	font-size:16px;
+	/*object-fit: scale-down;
+	height: 100%;*/
+}
+
+.svg{
+	width: 90%; 
+	height: 90%; 
+}
+
+.svg-1{
+	width: 51rem;
+	height: 40rem; 
+}
+
+.balck {
+	background:black;
+	color:white;
+	/*height:40px;*/
+	height:10%;
+}
+
+.text-center{
+	text-align:center; /* 文字置中 */
+	line-height: 2.7rem; /* 文字垂直水平置中 */
+}
+
+
